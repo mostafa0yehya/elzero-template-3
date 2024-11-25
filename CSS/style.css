@@ -1507,7 +1507,7 @@ textarea.input {
   color: var(--main-color);
   margin-right: 10px;
 }
-.footer.links li:hover a {
+.footer .links li:hover a {
   padding-left: 10px;
   color: white;
 }
